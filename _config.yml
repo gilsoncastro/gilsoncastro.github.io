@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Gilson Castro # your name (or website title) here
+logo: "/images/0.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Estudante de Ciências Econômicas na Universidade Federal de Alagoas com experiência na análise de dados com softwares estatísticos ( SPSS, Iramuteq)
+  e linguagens de programação R & Python
+ 
   <br><br>
-  Second description 
+  Apaixonado por tecnologia , inovação e neurociência
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/gils0ncastro/">Meu Perfil do LinkedIn</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
